@@ -20,7 +20,7 @@ O objetivo desse desafio foi continuar desenvolvendo a aplicação de gestão de
 Essa será uma aplicação que irá se conectar ao seu backend do Desafio 06, e exibir as transações criadas e permitir a importação de um arquivo CSV para gerar novos registros no banco de dados.
 
 <h4 display="flex" align="center">
-    <img width="30%" alt="GoFinances" title="GoFinances" src=".github/"/>
+    <img width="80%" alt="GoFinances" title="GoFinances" src=".github/goFinances.png"/>
 </h4>
 
 
